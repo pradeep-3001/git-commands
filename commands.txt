@@ -1,0 +1,6 @@
+git init
+git commit
+git clon
+git status
+git merge
+git switch
